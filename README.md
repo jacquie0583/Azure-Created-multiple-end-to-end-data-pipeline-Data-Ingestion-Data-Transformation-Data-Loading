@@ -4,7 +4,11 @@ Tools: 1. Azure Data Factory 2. Azure Data Lake Storage Gen2 3. Azure Databricks
 
 Description:  
         a.Ingesting:   from on-premise SQL Server database using Azure Data Factory 
+        
         b.Transformation: stored in Azure Data Lake2 and Azure databricks  transformed the RAW data to the most cleanest form of data 
+        
         c.Loading: Azure Synapse Analytics to load the clean data 
+        
         d.Reporting:  Microsoft Power BI to integrated with Azure synapse analytics 
+        
         e.Monitoring and Governance:   Azure Active Directory (AAD) and Azure Key Vault
